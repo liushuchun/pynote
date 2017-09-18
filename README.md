@@ -89,6 +89,7 @@ Python进阶
    * [基于生成器的实现](context_managers/implement_as_generator.md)
 * [魔法方法](magic/REAME.md)
 * [内存copy](deep_copy/README.md)
+* [多线程](thread_multi/README.md)
 * [推荐阅读](seealso.md)
 
 
